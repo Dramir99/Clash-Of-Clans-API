@@ -22,11 +22,10 @@ http://localhost:8888/
 
 # Running the JavaFX Application
 1. Main Menu
-<img src="https://github.com/Dramir99/Linked-List-with-Sub-list/blob/main/Linked_List_Example/Main_Menu_Example.jpg" alt="Main Menu"/>
+<img src="https://github.com/Dramir99/Clash-Of-Clans-API/blob/main/clash_of_clans_example_images/Main_Menu.jpg" alt="Main Menu"/>
 
-- Click on the start button to start the JavaFX Application
-- Click on setting button to populate the Data with a pre-populate .csv file
-- Quit the JavaFX Application
+- type in th search bar to search for a clan in the API
+- all names of a Clan must have 3 or more letters
 
 2. Populate the Database
 ---
