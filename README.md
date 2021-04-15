@@ -3,8 +3,6 @@ Author: Daniel Ramirez
 
 Created a Node.js Server and Vue.js Application that allows users to interact with Clash of Clans API.
 
-<img src="https://github.com/Dramir99/Linked-List-with-Sub-list/blob/main/Linked_List_Example/List_W_SubList.JPG" alt="New Linked List"/>
-
 # 🛠 Installation & Set Up
 1. Install the files
 ```
