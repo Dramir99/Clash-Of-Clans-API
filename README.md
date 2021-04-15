@@ -20,11 +20,11 @@ http://localhost:8888/
 ```
 
 
-# Running the JavaFX Application
+# Running the Application
 1. Main Menu
 <img src="https://github.com/Dramir99/Clash-Of-Clans-API/blob/main/clash_of_clans_example_images/Main_Menu.jpg" alt="Main Menu"/>
 
-- type in th search bar to search for a clan in the API
+- type in the search bar to search for a clan in the API
 - all names of a Clan must have 3 or more letters
 
 2. Populate the Database
