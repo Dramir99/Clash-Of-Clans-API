@@ -19,7 +19,10 @@ node server.js
 http://localhost:8888/
 ```
 
-
+# 🛠 Demo of the application
+```
+https://youtu.be/vfsQr1el8O8
+```
 # Running the Application
 1. Main Menu
 <img src="https://github.com/Dramir99/Clash-Of-Clans-API/blob/main/clash_of_clans_example_images/Main_Menu.jpg" alt="Main Menu"/>
